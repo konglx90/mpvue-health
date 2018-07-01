@@ -28,7 +28,7 @@ import card from '@/components/card';
 export default {
   data() {
     return {
-      motto: 'Hello World',
+      motto: 'Hello, Welcome to health app',
       userInfo: {},
     };
   },
